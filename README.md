@@ -11,3 +11,5 @@ TOP 50
 - **Dr.Robotics: assist**
     - [lab](https://github.com/CrazyPopLin/robotics_lab_us)
     - Research: uav,navigation,control, planning
+
+Thanks to CrazyPopLin for providing [the lists](https://github.com/CrazyPopLin/robotics_lab_us)
